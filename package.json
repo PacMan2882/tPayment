@@ -43,7 +43,7 @@
     "mocha": "^8.2.1",
     "mocha-webpack": "^1.1.0",
     "mversion": "^2.0.0",
-    "nodemon": "^2.0.6",
+    "nodemon": "^3.1.0",
     "phantomjs-prebuilt": "^2.1.7",
     "run-sequence": "~2.2.1",
     "tiny-lr": "^2.0.0",
